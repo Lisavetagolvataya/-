@@ -1,0 +1,62 @@
+
+.header {
+    background:#ccc;
+    background-size: cover; 
+   
+  }
+  .logo {
+      flex:20;
+      width:200px;
+      float:left; 
+      margin: 5 5 10px 10px; 
+
+  } 
+  .logo-header {
+   padding: 5px; 
+    margin: 0; 
+    font-size:40px
+     margin-bottom: -15px;
+     display:inline-block;
+     color:#808080;
+  }
+  .text {
+    padding: 5px; 
+    margin: 0;
+    color:#808080;
+  }
+
+  
+  td {
+      color:#ccc
+    padding: 5px;
+    padding: 5px; 
+    margin: 0; 
+    font-size:50px;
+
+  }
+  thead {
+    background: black; 
+    text-align: center;
+    font-weight: 600;
+    
+  }
+ .text1 {
+     color:#ccc;
+ }
+  .text2 {
+    color:#ccc;
+ }
+.text3 {
+    color:#ccc;
+}
+.Lorem {
+    text-indent: 210px;
+
+}
+.Level {
+    text-indent: 210px;
+}
+.Basic {
+    
+    text-indent:210px;
+}
